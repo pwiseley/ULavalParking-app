@@ -19,7 +19,7 @@ User opens the app
        └─ Logs in
             └─ Home → browses Parking page
                  └─ Click on Buy Ticket
-                      └─ Chooses monthly permit, and Superior Category
+                      └─ Chooses a monthly permit and the Superior Category
                            └─ Add new vehicle and start date
                                 └─ Proceeds to Payment
                                      └─ Receives confirmation
@@ -29,12 +29,12 @@ User opens the app
 
 ![demo video 1](assets/demo-1.gif)
 
-### Scenario 2 — Guest login, unique code entry and permit activation
+### Scenario 2 — Guest login, unique code entry, and permit activation
 ```
 User opens the app
-  └─ Logs in as guest
+  └─ Logs in as a guest
        └─ Adds license plate
-            └─ Enters unique permit code 
+            └─ Enters unique permit code or scans QR code
                  └─ Activates permit
                       └─ Confirmation with active permit details
 ```
@@ -110,7 +110,7 @@ This ensures design decisions are grounded in real observed behaviors, not assum
 - Parking page
 - Buy Ticket page
 - Vehicle Page
-- Confirmation page
+- Guest page
 - My Tickets page
 
 ---
@@ -119,7 +119,7 @@ This ensures design decisions are grounded in real observed behaviors, not assum
 
 University team project — GLO-4000, Université Laval.
 
-- Petiton Wiseley
+- Petiton Wiseley Paul-Enzer
 - Emmanuella Iris Andréa Lehe
 - Aliya Imann Ouedraogo
 - Louis Nathan Kameni
