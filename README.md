@@ -1,3 +1,5 @@
+> 🇫🇷 [Lire en français](README.fr.md)
+
 # ULaval Parking — Mobile App Design
 
 UI/UX design project for a parking permit management app at Université Laval. Built for the Human Computer Interface course (GLO-4000) — research-driven, persona-based, and designed for 4 device formats.
