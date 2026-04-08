@@ -8,6 +8,8 @@ UI/UX design project for a parking permit management app at Université Laval. B
 
 🔗 [Full Demo 2 Video](https://youtu.be/pq_Mg4eSOGs)
 
+🔗 [Figma Project Link](https://www.figma.com/design/iM3hq6BYRSf3e4c077zRUp/App-design?node-id=876-1350&t=sabLK07zGe5pBChX-1)
+
 ---
 
 ## User Scenarios
